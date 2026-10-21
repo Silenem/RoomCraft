@@ -1,0 +1,14 @@
+# Binary files are excluded at any directory depth.
+*.bin
+
+# Python-generated files and local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and operating system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
